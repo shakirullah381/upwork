@@ -1,0 +1,40 @@
+
+
+/* Browser Hover */
+.span:hover{
+text-decoration: underline;
+
+
+}
+/* Browser Hover End */
+
+.hov:hover{
+    background-color: #F2F7F2;
+    cursor: pointer;
+}
+.how:hover{
+    color: green;
+    opacity: 100%;
+    
+    cursor: pointer;
+}
+
+    .heade {
+        position: fixed;
+        
+        
+        
+        background-color: #fff9f9; /* Set the background color as needed */
+     /* Set the text color as needed */
+         /* Adjust the padding as needed */
+    ; /* Ensures the header stays on top of other content */
+    }
+
+    main {
+        /* Add margin-top to the main content to prevent it from being hidden by the fixed header */
+        margin-top: 60px; /* Adjust this value to match the height of your header */
+    }
+
+
+
+
